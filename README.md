@@ -1,5 +1,5 @@
-1. The files here are a content of a  VS code python project.
-2. There are recorded voices present in the folder "conversations" which trigger the convo.
+1. The files here are a content of a  VS code python project. Please add this whole file as a project in your "vs code" or "pycharm".
+2. There are recorded voices present in the folder "conversation" which trigger the convo.
 3. Download the application "CABLE OUTPUT".
 4. Run the code "device_index" present in the folder to determine the device name and its index.
 5. In the console you can see the Cable input integrated with the devices present in the system. observe this "CABLE Input (VB-Audio Virtual C (ID: #)", where # is the device number.
