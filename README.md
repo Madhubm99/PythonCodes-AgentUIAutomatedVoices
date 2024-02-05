@@ -1,4 +1,4 @@
-1. The files here are a content of a  VS code python project. Please add this whole file as a project in your "vs code" or "pycharm".
+1. The files here are a content of a  VS code python project. Please add these contents  as a project in your "vs code" or "pycharm".
 2. There are recorded voices present in the folder "conversation" which trigger the convo.
 3. Download the application "CABLE OUTPUT".
 4. Run the code "device_index" present in the folder to determine the device name and its index.
